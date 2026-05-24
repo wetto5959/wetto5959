@@ -3,8 +3,7 @@
 Wannabe Network Engineer
 
 Student in IT.
-Learning how the internet actually works one packet at a time.
-Currenly finalizing CCNA cert.
+Finalizing CCNA cert.
 
 ## My projects
 
