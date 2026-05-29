@@ -2,9 +2,9 @@
 
 Wannabe Network Engineer
 
-Student in IT.
+Recently graduated in Information technologies.
 Finalizing CCNA cert.
 
 ## My projects
 
-currently non xd
+Enterprise Network Infrastructure Project
